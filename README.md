@@ -1,5 +1,6 @@
 #  DevTokens — Interactive JWT Claim Matrix Laboratory
 -------------------------------------------------------------------------
+
 DevTokens is a responsive cryptographic serialization studio engineered with modern Vue.js v3 composition rules. It transforms multi-tier configuration parameters and user-injected dictionary arrays into clean base64-encoded token strings, using computed properties to cache evaluations and optimize string building passes.
 
 ##  Technical Highlights Tested
