@@ -5,7 +5,7 @@ DevTokens is a responsive cryptographic serialization studio engineered with mod
 
 ## Preview
 --------------------------------------------------------------------------
-![](devto)
+![](devto.png)
 
 ##  Technical Highlights Tested
 --------------------------------------------------------------------------
