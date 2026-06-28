@@ -8,7 +8,7 @@ DevTokens is a responsive cryptographic serialization studio engineered with mod
 ![]()
 
 ##  Technical Highlights Tested
-
+--------------------------------------------------------------------------
 
 *  **Dynamic Object Array Injections:** Leverages native Vue templates to safely map and loop mutable array records (`v-for`), allowing runtime payload customizations without disrupting state isolation models.
 *  **Client-Side Data Serialization:** Processes internal string buffers via lightweight, high-performance serialization logic to compute complex simulated authorization payloads on the fly.
